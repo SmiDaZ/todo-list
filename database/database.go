@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/<ваше имя на GitHub>/todo-list/models"
+	"github.com/SmiDaZ/todo-list/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
